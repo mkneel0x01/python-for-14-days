@@ -1,0 +1,8 @@
+
+#Comments starts with a #, and Python will ignore them:
+
+print("Hello World! This is MK Neel.")
+#print(101)
+print(3 + 3)
+#print(2 * 5)
+print("I am", 25, "years old.")

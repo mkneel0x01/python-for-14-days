@@ -15,7 +15,21 @@
 #print(y)
 #print(z)
 
-x = 5
-y = "John"
-print(type(x))
-print(type(y))
+#x = 5
+#y = "John"
+#print(type(x))
+#print(type(y))
+
+myvar = "neel"
+my_var = "neel"
+_my_var = "neel"
+myVar = "neel"
+MYVAR = "neel"
+myvar2 = "neel"
+
+print(myvar)
+print(my_var)
+print(_my_var)
+print(myVar)
+print(MYVAR)
+print(myvar2)
